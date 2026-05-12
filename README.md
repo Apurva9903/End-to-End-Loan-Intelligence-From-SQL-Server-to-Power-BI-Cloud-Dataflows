@@ -24,3 +24,7 @@ Instead of basic aggregations, I built advanced measures to reveal business grow
 
 ## 💡 Professional Value
 This project demonstrates my proficiency in **Data Engineering** (Gateways/Dataflows) and **Data Analysis** (DAX/SQL). It proves my ability to design, deploy, and document an enterprise-level data system.
+
+## 📸 Dashboard Preview
+<img width="1886" height="1060" alt="image" src="https://github.com/user-attachments/assets/7dc664e3-fc8a-4df9-9d11-3268713b8d08" />
+
